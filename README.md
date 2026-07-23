@@ -1,1 +1,13 @@
-Hi, I’m a Telecommunications Engineer completing my degree at the Warsaw University of Technology, specializing in antenna design and signal‑processing, with a strong passion for radio‑astronomy and hands‑on experience in RF hardware and software‑defined radio projects.
+Hi, I'm a Telecommunications Engineering student at the Warsaw University of Technology and the founder of the Student Club of Antenna Design. 🛰️
+
+My work bridges the gap between hardware engineering and software development. I specialize in applied electromagnetics, signal processing, and programming, with a strong focus on Space Systems and Ground Segment infrastructure. 
+
+Currently, I am developing an automated Ground Station for LEO meteorological satellites (MetOp-B), integrating SDR receivers, and custom Python/Linux control architectures.
+
+**Technical Focus & Interests:**
+* **Space & Ground Segments:** Satellite tracking, link budget analysis, and automated mission operations.
+* **RF Engineering:** Antenna design (Altair FEKO), microwave circuits, and Software-Defined Radio (SDR).
+* **Software Engineering:** hardware-software integration, emulators, microcontrollers, automation
+* **Radio Astronomy:** Passionate about deep-space observation and pushing the limits of amateur and academic RF instrumentation.
+
+I thrive in projects that require building robust physical prototypes and writing the software to make them come alive.
